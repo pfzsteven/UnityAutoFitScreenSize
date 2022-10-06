@@ -1,5 +1,4 @@
-
-public class AutoFitScreenSize : MonoBehaviour
+    public class AutoFitScreenSize : MonoBehaviour
     {
         public Camera mCamera;
         public Canvas mCanvas;
