@@ -1,4 +1,4 @@
-```c#
+
 public class AutoFitScreenSize : MonoBehaviour
     {
         public Camera mCamera;
@@ -30,4 +30,3 @@ public class AutoFitScreenSize : MonoBehaviour
             rt.sizeDelta = new Vector2(camWidth, camHeight);
         }
     }
-```
